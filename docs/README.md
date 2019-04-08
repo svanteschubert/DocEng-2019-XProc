@@ -90,7 +90,7 @@ Since XProc 3.0 processors will be still under development in September, it is a
 
 ## <a name="presenter"></a>About the presenter
 
-My name is Erik Siegel. [Xatapult](http://www.xatapult.com)is my (one-man) company, specialized in content engineering and XML processing. Most of my clients are in the publishing industry or involved in standardization.
+My name is Erik Siegel. [Xatapult](http://www.xatapult.com) is my (one-man) company, specialized in content engineering and XML processing. Most of my clients are in the publishing industry or involved in standardization.
 
 I come from a technical IT background. Xatapult is deliberately looking for content and XML related projects on all levels: from the strategic use of standards to developing processing applications.
 
@@ -101,7 +101,7 @@ In my (recent) past I have given several successful courses on topics such as XM
 In 2014, together with Adam Retter, I wrote 
 [a book about eXist-db](http://shop.oreilly.com/product/0636920026525.do), an XML database and processing engine. The book was published by O’Reilly and sold world-wide.
 
-In 2016 I became a member of the editing committee for the XProc 3.0 standard.
+In 2016 I became a member of the editing committee for the XProc 3.0 standard. I'm currently working on the XProc 3.0 Programmer's Reference book.
 
 More details on my [LinkedIn profile](https://www.linkedin.com/in/esiegel/).
 
