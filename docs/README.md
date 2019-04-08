@@ -77,7 +77,7 @@ The previous version of XProc, [XProc 1.0](https://www.w3.org/TR/xproc/), has be
 
 In 2016 a W3C community group started working on [XProc 3.0](http://spec.xproc.org/master/head/) (a 2.0 proposal with a non-XML syntax never got a lot of support and was therefore abandoned). Main goals were to stay closer to the 1.0 syntax, make the language much more usable, understandable and concise, update the underlying standards (most notably XPath) and allow processing of non-XML documents also.
 
-The core specification (http://spec.xproc.org/master/head/) is now in “last call” status. We’re still working on the steps (the building blocks of XProc) and hope to finish everything before the end of 2019. Two working implementations of an XProc 3.0 processor and a Programmer’s Reference book are on their way.
+The [core specification](http://spec.xproc.org/master/head/) is now in “last call” status. We’re still working on the steps (the building blocks of XProc) and hope to finish everything before the end of 2019. Two working implementations of an XProc 3.0 processor and a Programmer’s Reference book are on their way.
 
 We, the people involved in the XProc 3.0 initiative, believe that we’ve turned an old-fashioned, hard to use contraption into an up-to-date and easy to use power tool. A tool that can replace many of the incomplete homegrown pipeline implementations that we know are out there.
 
