@@ -7,5 +7,7 @@ The [19th ACM Symposium on Document Engineering](https://doceng.org/doceng2019/i
 The [DocEng-2019-XProc GitHub repository](https://github.com/eriksiegel/DocEng-2019-XProc) will be used to host all materials (presentations, exercises, etc.) for this tutorial. It will be filled in the weeks leading up to the conference.
 
 Erik Siegel
+
 [Xatapult](http://www.xatapult.com)
+
 [erik@xatapult.com](mailto:erik@xatapult.com)
