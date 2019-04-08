@@ -4,7 +4,9 @@
 
 The [19th ACM Symposium on Document Engineering](https://doceng.org/doceng2019/index) (September 23-26, Berlin) will kick off with a day of tutorials and workshops. One of these will be an introduction to XProc 3.0.
 
-The [DocEng-2019-XProc GitHub repository](https://github.com/eriksiegel/DocEng-2019-XProc) will be used to host all materials (presentations, exercises, etc.) for this tutorial. It will be filled in the weeks leading up to the conference.
+The [DocEng-2019-XProc GitHub repository](https://github.com/eriksiegel/DocEng-2019-XProc) is used to host all materials (presentations, exercises, etc.) for this tutorial. It will be filled in the weeks leading up to the conference.
+
+For more information see the [accompanying GitHub pages site](https://eriksiegel.github.io/DocEng-2019-XProc/).
 
 Erik Siegel
 
