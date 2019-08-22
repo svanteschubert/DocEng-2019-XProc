@@ -1,10 +1,6 @@
 <p:declare-step xmlns:p="http://www.w3.org/ns/xproc" version="3.0">
 
-  <p:documentation>
-    The proverbial "Hello World" XProc pipeline...
-  </p:documentation>
-
-  <p:output port="result" primary="true" sequence="false"/>
+  <p:output port="result"/>
 
   <p:identity>
     <p:with-input>
